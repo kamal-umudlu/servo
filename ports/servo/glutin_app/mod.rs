@@ -4,6 +4,7 @@
 
 //! A simple application that uses glutin to open a window for Servo to display in.
 
+mod angle;
 pub mod keyutils;
 pub mod window;
 
